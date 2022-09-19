@@ -1,7 +1,7 @@
-<h1 align="center">Howdy!</h1>
+# Howdy!
 <br>
 
-<h2 align="center">My name is Kennedy Ford and I am a Computer Scientist</h2>
+## My name is Kennedy Ford and I am a Computer Scientist
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knf010@latech.edu&tf=1">
@@ -27,10 +27,10 @@
 
 ## Programming Languages:
 
-# Proficient in:
+### Proficient in:
   > Python, Java, MATLAB
 
-# Experience in:
+### Experience in:
   > HTML, CSS, JavaScript, PHP, JSON, C, Bash, SML, Prolog
 
 <br>
