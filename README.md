@@ -27,3 +27,13 @@
 
 ## Programming Languages:
 
+<h4>Proficient in:</h4>
+  - Python
+  - Java
+  - MATLAB
+
+<h4>Experience in:</h4>
+  - HTML/CSS
+  - JavaScript/PHP/JSON
+  - C/Bash
+  - SML/Prolog
