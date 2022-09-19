@@ -1,7 +1,7 @@
-# Howdy!
+<h1 align="center">Howdy!</h1>
 <br>
 
-## My name is Kennedy Ford and I am a Computer Scientist
+<h2 align="center">My name is Kennedy Ford and I am a Computer Scientist</h2>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knf010@latech.edu&tf=1">
@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-## I am currently a Senior in the Computer Science program at Louisiana Tech University
+<h2 align="center">I am currently a Senior in the Computer Science program at Louisiana Tech University</h2>
 
   - I will graduate in May 2023 with my Bachelor of Science degree.
   
