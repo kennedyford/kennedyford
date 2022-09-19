@@ -27,12 +27,12 @@
 
 ## Programming Languages:
 
-<h4>Proficient in:</h4>
+# Proficient in:
   > Python
   > Java
   > MATLAB
 
-<h4>Experience in:</h4>
+# Experience in:
   > HTML/CSS
   > JavaScript/PHP/JSON
   > C/Bash
