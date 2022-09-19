@@ -4,7 +4,7 @@
 <h2 align="center">My name is Kennedy Ford and I am a Computer Scientist</h2>
 
 <p align="center">
-  <a href="mailto:knf010@latech.edu">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knf010@latech.edu&tf=1">
       <img alt="GMAIL" src="https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge&logo=gmail&labelColor=grey&logoColor=white" />
     </a>
  <a href="https://www.linkedin.com/in/kennedy-ford-0567ba205">
