@@ -35,3 +35,9 @@
 
 <br>
 
+## Other Interests:
+  - Playing (and Writing) Music (Guitar, Piano, Bass, Ukulele, Spotify
+ 
+  - Collecting Video Games (500+ Games, 20+ consoles)
+
+  - Learning (via YouTube, Books, and Classes)
