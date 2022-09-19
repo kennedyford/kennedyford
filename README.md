@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-<h3 align="center">I am a Senior in Computer Science at Louisiana Tech University</h3>
+<h3 align="center">I am currently a Senior in the Computer Science program at Louisiana Tech University</h3>
 
   - I will graduate in May 2023 with my Bachelor of Science degree.
   
