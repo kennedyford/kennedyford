@@ -12,3 +12,10 @@
     </a>
 
 </p>
+
+<br><br><br>
+
+<h4>I am a Senior in Computer Science at Louisiana Tech University</h4>
+<p>
+* 
+</p>
