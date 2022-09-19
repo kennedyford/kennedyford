@@ -36,8 +36,11 @@
 <br>
 
 ## Other Interests:
-  - Playing (and Writing) Music (Guitar, Piano, Bass, Ukulele, Spotify
+  - Playing (and Writing) Music (Guitar, Piano, Bass, Ukulele, Spotify)
  
   - Collecting Video Games (500+ Games, 20+ consoles)
 
   - Learning (via YouTube, Books, and Classes)
+
+
+<p align="center"> Feel free to also check out <a href="kennedyford.xyz">my personal website</a>
