@@ -42,5 +42,6 @@
 
   - Learning (via YouTube, Books, and Classes)
 
+<br><br><br>
 
-<p align="center"> Feel free to also check out <a href="kennedyford.xyz">my personal website</a>
+<p align="center"> Also, feel free to check out <a href="kennedyford.xyz">my personal website</a>
