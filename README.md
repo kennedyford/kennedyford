@@ -27,11 +27,8 @@
 
 ## Programming Languages:
 
-### Proficient in:
-  > Python
-
 ### Experience in:
-  > Java, MATLAB, HTML, CSS, JavaScript, PHP, JSON, C, Bash, SML, Prolog
+  > Python, Java, MATLAB, HTML, CSS, JavaScript, PHP, JSON, C, Bash, SML, Prolog
 
 <br>
 
