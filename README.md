@@ -41,4 +41,4 @@
 
 <br><br><br>
 
-<p align="center"> Also, feel free to check out <a href="kennedyford.xyz">my personal website</a>
+<p align="center"> Also, feel free to check out <a href="https://www.kennedyford.xyz">my personal website</a>
