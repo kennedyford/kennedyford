@@ -15,9 +15,9 @@
 
 <br><br><br>
 
-<h2 align="center">I am currently a Senior in the Computer Science program <br>at Louisiana Tech University</h2>
+<h2 align="center">I am currently a Graduate Student in the Computer Science Master's program <br>at Louisiana Tech University</h2>
 
-  - I will graduate in May 2023 with my Bachelor of Science degree.
+  - I earned my Bachelor of Science degree in Computer Science on May 20th, 2023.
   
   - I am also currently pursuing my Masters of Science in Computer Science and I will graduate with that degree in May 2024.
   
