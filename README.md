@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 <br>
 
-<h2 align="center">My name is Kennedy Ford and I am a Computer Scientist</h2>
+<h2 align="center">My name is Kennedy Ford and I am a Software Developer</h2>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=knf010@latech.edu&tf=1">
