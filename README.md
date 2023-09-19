@@ -21,7 +21,7 @@
   
   - I am also currently pursuing my Masters of Science in Computer Science, and I will graduate with that degree in May 2024.
   
-  - I have experience in a variety of programming langauges and have worked within the realms of both IT and Research/Development.
+  - I have experience in a variety of programming langauges and have worked within the realms of both Software Development and IT.
   
 <br>
 
