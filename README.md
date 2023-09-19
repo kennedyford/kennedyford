@@ -28,7 +28,7 @@
 ## Programming Languages:
 
 ### Experience in (in order of familiarity):
-  > Python, Dart/Flutter, Java, HTML, MATLAB, JSON, JavaScript, CSS, Prolog, C, Bash, SML, PHP
+  > Python, MATLAB, JSON, HTML, CSS, JavaScript, CSS, Dart/Flutter, C#, Java, Prolog, C, Bash, SML, PHP
 
 <br>
 
