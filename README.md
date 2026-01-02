@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-<h2 align="center">I am currently a Software Developer at CYBER.ORG</h2>
+<h2 align="center">I am currently a Software Developer at the Cyber Innovation Center</h2>
   
   - I earned my Master of Science degree in Computer Science on May 25th, 2024.
 
