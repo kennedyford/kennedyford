@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 <br>
 
-<h2 align="center">My name is Kennedy Ford and I am a Software Developer</h2>
+<h2 align="center">My name is Kennedy Ford and I am a Software Engineer</h2>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kennedyfordmusic@gmail.com&tf=1">
@@ -15,7 +15,7 @@
 
 <br><br><br>
 
-<h2 align="center">I am currently a Software Developer at the Cyber Innovation Center</h2>
+<h2 align="center">I am currently a Software Engineer at the Cyber Innovation Center</h2>
   
   - I earned my Master of Science degree in Computer Science on May 25th, 2024.
 
